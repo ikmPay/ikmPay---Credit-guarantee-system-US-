@@ -1,0 +1,2 @@
+# ikmPay---Credit-guarantee-system-US-
+ikmPay - Credit guarantee system (US)  ikmPay credit guarantee system:  Role 1: anyone (user group) in the United States can use ikmpay's credit guarantee system to complete the guarantee, so as to obtain credit services provided by the government, organizations, businesses, individuals, institutions, schools, etc. or to facilitate their own services.  More information: this function is researched and developed by n57 studio in the south of ikmpay customer service center in China.
